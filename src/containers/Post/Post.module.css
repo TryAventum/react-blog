@@ -1,0 +1,19 @@
+.postWrapper{
+    margin-bottom: 3rem;
+}
+
+.postWrapper img {
+  max-width: 600px !important;
+}
+
+.commentForm {
+  display: none;
+}
+
+.editLink{
+  color: blue;
+}
+
+.deleteLink{
+  color: red;
+}

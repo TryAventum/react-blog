@@ -1,0 +1,36 @@
+/* Post List
+     ============================= */
+.postList {
+  list-style: none;
+}
+
+.postList img {
+  max-width: 600px !important;
+}
+
+.postList li {
+  margin-bottom: 2rem;
+}
+
+/* Pagination
+     ============================= */
+.paginationWrapper {
+  text-align: center;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+}
+
+.paginationWrapper a {
+  padding: 0.5rem;
+  border: 2px solid #cecece;
+  margin-right: 1rem;
+  text-decoration: none;
+  color: black;
+}
+
+.active {
+  text-align: center;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  background-color: lightgray;
+}

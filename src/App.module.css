@@ -1,0 +1,16 @@
+/* Header
+     ============================= */
+.mainNav {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.mainNav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.mainNav ul a {
+  margin-right: 1rem;
+}
